@@ -3,7 +3,7 @@
 ## introduction
 
 **cardify** automatically generates text-occluded image flash cards compatible with [Anki](https://apps.ankiweb.net/) flashcard software.
-**cardify** utilizes the [EAST neural network](https://arxiv.org/abs/1704.03155) to identify characters on images, and then **cardify** determines which groups of characters are "text labels" for the image provided. **cardify** redacts every detected label and generates a flashcard for each one. Each flashcard is then automatically filed into an Anki deck that you generate.
+**cardify** utilizes the [EAST neural network](https://arxiv.org/abs/1704.03155) to identify characters on images, and then **cardify** determines which groups of characters are "text labels" for the image provided. **cardify** redacts every detected label and generates a flashcard for each one. Each flashcard is then automatically filed into an Anki deck that you generate. **cardify's** user interface was developed using the PyQT5 Python package. 
 
 ## using cardify
 
