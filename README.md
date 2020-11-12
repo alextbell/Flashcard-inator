@@ -36,3 +36,4 @@
 
 * **cardify** is still a work in progress. The greatest limitation is the optical character detection algorithm. It works well enough for some images, but not well enough for me to use this over the manual cloze deletion package on Anki. 
 * **cardify** does not yet have a hide one vs. hide all option. This is another advantage of manual cloze deletion over **cardify**. 
+* credit to [pyimagesearch](https://www.pyimagesearch.com/) for providing an example implementation of the EAST detector
